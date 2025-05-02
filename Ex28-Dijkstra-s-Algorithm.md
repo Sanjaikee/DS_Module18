@@ -1,4 +1,4 @@
-**# Ex28 Dijkstra’s Algorithm
+# Ex28 Dijkstra’s Algorithm
 ## AIM:
 To write a C Program to implement Dijkstra's Algorithm to find the shortest path
 
@@ -20,8 +20,8 @@ and the path taken to reach each node.
 ```
 /*
 Program to implement Dijkstra's Algorithm 
-Developed by: Sanjai S
-RegisterNumber: 212223230186
+Developed by: ANU VARSHINI M B
+RegisterNumber: 212223240010
 */
 #include<stdio.h> 
 #defineINFINITY9999
